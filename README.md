@@ -1,4 +1,4 @@
-# CPE 322:Engineering Desgin VI
+# EE 322: Engineering Design VI
 
 ## Generally going to be used for classwork
 
